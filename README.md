@@ -2,6 +2,8 @@
 
 Welcome to the Mavericks Program website repository! This is an open-source project where contributors can help build and improve the official platform for the Mavericks Program, powered by BlackBox AI.
 
+![Screenshot 2025-03-03 124714](https://github.com/user-attachments/assets/f6601404-a823-47ca-a542-ac2428246706)
+
 ---
 
 ## 📌 Project Overview
